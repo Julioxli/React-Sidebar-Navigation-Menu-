@@ -2,7 +2,7 @@
 
 ## Esse é um menu que fiz seguindo passo a passo de um vídeo do Youtube.
 
-> [Vídeo que citei](https://youtu.be/CXa0f4-dWi4)
+> [Vídeo que citei](https://youtu.be/5I_uGo8-jPs)
 
 ## Códigos que utilizei no terminal
 1. Npm create-react-app (nome do projeto)
