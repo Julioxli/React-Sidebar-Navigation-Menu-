@@ -1,4 +1,4 @@
-# React-Sidebar-Navigation-Menu-
+# React-Sidebar
 
 ## Esse é um menu que fiz seguindo passo a passo de um vídeo do Youtube.
 
